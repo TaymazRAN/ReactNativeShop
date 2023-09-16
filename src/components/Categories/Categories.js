@@ -13,7 +13,7 @@ const Categories = ({ categories, selectedCateogry, onCategoryPress }) => {
         const selected = selectedCateogry === item;
         return (
           <Pressable
-          hitSlop={4}
+            hitSlop={4}
             onPress={() => onCategoryPress(item)}
             style={[
               styles.categoriesItemContainer,

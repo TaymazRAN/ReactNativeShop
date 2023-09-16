@@ -30,7 +30,7 @@ const Home = ({ navigation }) => {
       <View style={styles.homeHeader}>
         <View style={styles.homeTitle}>
           <Title text="Where do" style={{ fontWeight: "normal" }} />
-          <Title text="you want to go? I go  Iran  خ خ خ " />
+          <Title text="you want to go? " />
           <Title text="Explore Attractions" style={styles.homeSubtitle} />
         </View>
         <Categories

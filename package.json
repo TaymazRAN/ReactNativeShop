@@ -14,16 +14,20 @@
     "@react-native-masked-view/masked-view": "0.2.9",
     "@react-navigation/native": "^6.1.7",
     "@react-navigation/stack": "^6.3.17",
+    "@reduxjs/toolkit": "^1.9.5",
     "expo": "~49.0.10",
     "expo-status-bar": "~1.6.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.72.4",
+    "react-native-easy-localization-and-rtl": "^1.1.0",
     "react-native-gesture-handler": "~2.12.0",
+    "react-native-localization": "^2.3.2",
+    "react-native-reanimated": "~3.3.0",
     "react-native-safe-area-context": "4.6.3",
     "react-native-screens": "~3.22.0",
     "react-native-web": "~0.19.6",
-    "react-native-reanimated": "~3.3.0"
+    "react-redux": "^8.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"

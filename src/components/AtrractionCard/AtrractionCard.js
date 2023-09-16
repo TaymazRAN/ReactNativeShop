@@ -2,7 +2,7 @@ import React from "react";
 import { Image, Text, TouchableOpacity, View } from "react-native";
 import styles from "./stylesAtrractionCard";
 import { Ionicons } from "@expo/vector-icons";
-const AtrractionCard = ({ imageSrc, title, subtitle,onPress }) => {
+const AtrractionCard = ({ imageSrc, title, subtitle, onPress }) => {
   return (
     <TouchableOpacity onPress={onPress} style={styles.card}>
       <Image style={styles.image} source={{ uri: imageSrc }} />
