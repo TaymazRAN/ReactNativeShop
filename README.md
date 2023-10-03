@@ -1,2 +1,5 @@
 # QiuzApp_ReactNative
-Create Quiz IQ App with react Native 
+Create Travel App with react Native 
+
+![alt text](http://url/to/1.png)
+![alt text](http://url/to/2.png)
