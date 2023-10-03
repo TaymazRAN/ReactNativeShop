@@ -1,2 +1,2 @@
-# ReactNativeShop
-create  shop  App  with React native  , 
+# QiuzApp_ReactNative
+Create Quiz IQ App with react Native 
